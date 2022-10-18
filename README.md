@@ -15,3 +15,7 @@ Here are some of the relevant CS/DS courses that I've taken/am taking at the Uni
 * CS170: Efficient Algorithms and Intractable Problems
 * CS188: Introduction to Artificial Intelligence
 * DATA140: Probability for Data Science
+
+## Courses Planned:
+* CS186: Introduction to Database Systems
+* CS189: Introduction to Machine Learning
