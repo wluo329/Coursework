@@ -1,4 +1,4 @@
-# Berkeley-Courses-Notes
+# Berkeley-Courses-Websites
 
 Here are some of the relevant CS/DS courses that I've taken/am taking at the University of California, Berkeley.  Linked are the corresponding course websites, which describe but are not limited to the specific class's topics/curriculum, relevant textbook, lecture slides, discussion worksheets, homework/project specs, etc.
 
